@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[MohammadOsmanRaza-netops]&show_icons=true&theme=default&hide_border=true" />
 </p>
