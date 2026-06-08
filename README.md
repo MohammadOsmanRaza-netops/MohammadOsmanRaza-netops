@@ -39,7 +39,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco_CML-IOS-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Site--to--Site_VPN-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu_22-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu_-E95420?style=flat&logo=ubuntu&logoColor=white)
 
 **What's inside:**
 - 🔀 IPsec/IKEv2 site-to-site tunnel between HQ and Branch
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[MohammadOsmanRaza-netops]&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Mohammad Osman Raza-netops]&show_icons=true&theme=default&hide_border=true" />
 </p>
