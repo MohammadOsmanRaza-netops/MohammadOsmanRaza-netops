@@ -63,7 +63,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/mohammad-osman-raza-90866627a])
 
 ---
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Mohammad Osman Raza-netops]&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
