@@ -44,7 +44,6 @@ What's inside:
 
 ### 📈 Currently
 
-- 🔨 Building the TechCorp hybrid network lab
 - 📚 Deepening skills in network automation and AWS networking
 - 💼 Open to **Network Engineer** and **Cloud Network Engineer** roles in Hyderabad
 
@@ -52,4 +51,4 @@ What's inside:
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)]([www.linkedin.com/in/mohammad-osman-raza-90866627a])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)] www.linkedin.com/in/mohammad-osman-raza-90866627a
