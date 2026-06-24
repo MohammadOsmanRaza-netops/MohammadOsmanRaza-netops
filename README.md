@@ -28,25 +28,17 @@
 
 ---
 
-### 🚀 Featured Project
+🚀 Featured Project
+[Hybrid Cloud Lab: Cisco CML ↔ AWS Site-to-Site VPN]
+On-prem Cisco ASAv in CML connected to AWS via dual IPsec tunnels,
+automated end-to-end with Ansible.
 
-#### [🏢 TechCorp Enterprise Hybrid Network Lab]
-
-> Dual-site enterprise network simulated in Cisco CML — 
-> Hyderabad HQ and Mumbai Branch — connected to a production 
-> AWS VPC via Site-to-Site VPN, automated end-to-end with Ansible.
-
-![Cisco](https://img.shields.io/badge/Cisco_CML-IOS-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Site--to--Site_VPN-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-EE0000?style=flat&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu_-E95420?style=flat&logo=ubuntu&logoColor=white)
-
-**What's inside:**
-- 🔀 IPsec/IKEv2 site-to-site tunnel between HQ and Branch
-- ☁️ 3-tier AWS VPC (public · private · database subnets)
-- 🔐 VLAN segmentation with inter-VLAN routing
-- ⚙️ Full Ansible automation — routers, switches, and AWS resources
-- 🖥️ Ubuntu servers running DNS, DHCP, and Ansible control node
+What's inside:
+* Dual IPsec tunnels with BGP dynamic routing to AWS
+* Full Ansible automation for ASAv tunnel config (Ansible Vault for secrets)
+* AWS VPC with Customer Gateway + Virtual Private Gateway
+* ✅ End-to-end traffic verified — Ubuntu host pinging private EC2
+* Ran on Proxmox-hosted CML (free tier) — real constraints, real fixes
 
 ---
 
